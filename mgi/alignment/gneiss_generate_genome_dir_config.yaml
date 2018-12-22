@@ -1,0 +1,7 @@
+threads: 20
+reference_fasta:
+  class: File
+  path: /gscmnt/gc2508/dinglab/estorrs/data/rnaediting/reference/hg38.fa
+gtf:
+  class: File
+  path: /gscmnt/gc2508/dinglab/estorrs/data/rnaediting/gtf/Homo_sapiens.GRCh38.90.gtf

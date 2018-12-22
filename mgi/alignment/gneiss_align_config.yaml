@@ -1,0 +1,11 @@
+threads: 20
+compressed_input: True
+genome_dir:
+  class: Directory
+  path: /gscmnt/gc2508/dinglab/estorrs/cromwell_sandbox/results/gneiss_generate_genome_dir.cwl/18bd05da-dbc9-4742-a210-8129743e1a2b/call-gneiss_generate_genome_dir.cwl/execution/genome_dir
+read_1_fastq:
+  class: File
+  path: /gscmnt/gc2508/dinglab/estorrs/data/rnaediting/fastqs/C3N-02588.RNA-Seq.R1.A.fastq
+read_2_fastq:
+  class: File
+  path: /gscmnt/gc2508/dinglab/estorrs/data/rnaediting/fastqs/C3N-02588.RNA-Seq.R2.A.fastq
