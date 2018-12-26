@@ -1,4 +1,0 @@
-threads: 2
-reference_fasta:
-  class: File
-  path: /gscmnt/gc2508/dinglab/estorrs/gneiss/tests/data/test_ref.fa
